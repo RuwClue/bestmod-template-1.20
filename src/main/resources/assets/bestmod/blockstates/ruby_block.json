@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bestmod:block/ruby_block"
+    }
+  }
+}
